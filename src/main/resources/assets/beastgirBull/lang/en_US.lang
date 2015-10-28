@@ -1,0 +1,7 @@
+# Master language file
+
+# example item format item.[Internal Item Name].name=[Localized Name]
+# item.PipeFluidsValve.name=Valve Pipe
+
+# example block format tile.[Internal Block Name].name=[Localized Name]
+# tile.blockGenericPipe.name=Generic Pipe Block (not for use in game)

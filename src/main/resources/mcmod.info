@@ -1,0 +1,17 @@
+[
+{
+  "modid": "beastgirBull",
+  "name": "Beastgir's Bull",
+  "description": "A mod full of bull",
+  "version": "$version",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "$mcversion",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "beastgir", "da3dsoul" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]

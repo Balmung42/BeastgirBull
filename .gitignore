@@ -1,5 +1,6 @@
 .gradle
 build/
+.git
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -8,5 +9,7 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 #IDEA
-.idea
+/Gradle 1.7.10 Workspace.iml
+/BeastgirBull.iml
+/.idea
 *.iml

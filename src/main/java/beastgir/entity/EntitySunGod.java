@@ -1,4 +1,4 @@
-package beastgir.Mobs;
+package beastgir.entity;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

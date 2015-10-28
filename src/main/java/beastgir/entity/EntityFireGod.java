@@ -1,4 +1,4 @@
-package beastgir.Mobs;
+package beastgir.entity;
 
 /**
  * Created by Balmung on 10/13/2015.
